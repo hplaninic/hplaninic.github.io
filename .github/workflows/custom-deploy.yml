@@ -85,7 +85,7 @@ jobs:
       - name: Sync files 📂
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
-          local-dir: ._site/
+          local-dir: ./_site/
           server-dir: math/planinic/public_html/
           server: ftp.cromath.math.hr
           username: planinic
