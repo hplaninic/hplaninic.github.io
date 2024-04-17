@@ -90,3 +90,5 @@ jobs:
           server: ftp.cromath.math.hr
           username: planinic
           password: ${{ secrets.ftp_password }}
+          protocol: ftps
+          port: 22
