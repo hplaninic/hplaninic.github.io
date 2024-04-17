@@ -87,7 +87,7 @@ jobs:
         with:
           local-dir: ./_site/
           server-dir: math/planinic/public_html/
-          server: ftp.cromath.math.hr
+          server: cromath.math.hr
           username: planinic
           password: ${{ secrets.ftp_password }}
           protocol: ftps
