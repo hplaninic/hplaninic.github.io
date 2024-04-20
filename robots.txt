@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hplaninic.github.io/sitemap.xml
+Sitemap: https://web.math.pmf.unizg.hr/~planinic//sitemap.xml
