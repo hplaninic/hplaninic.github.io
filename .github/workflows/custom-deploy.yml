@@ -82,13 +82,13 @@ jobs:
         run: |
           npm install -g purgecss
           purgecss -c purgecss.config.js
-      #- name: Sync files 📂
-      #  uses: SamKirkland/FTP-Deploy-Action@v4.3.5
-      #  with:
-      #    local-dir: ./_site/
-      #    server-dir: math/planinic/public_html/
-      #    server: cromath.math.hr
-      #    username: planinic
-      #    password: ${{ secrets.ftp_password }}
-      #    protocol: ftp
-      #    port: 22
+      - name: Sync files 📂
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          local-dir: ./_site/
+          server-dir: math/planinic/public_html/
+          server: cromath.math.hr
+          username: planinic
+          password: ${{ secrets.ftp_password }}
+          protocol: ftp
+          port: 22
