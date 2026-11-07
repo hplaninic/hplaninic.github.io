@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - '*.qmd'
+  resources:
+    - files/
+website:
+  site-url: "https://hplaninic.github.io/"
+  title: "Hrvoje Planinić"
+  description: "Research and teaching in probability theory at the University of Zagreb."
+  search: false
+  navbar:
+    background: light
+    right:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: students.qmd
+        text: Students
+  page-footer:
+    left: "Hrvoje Planinić · University of Zagreb"
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    anchor-sections: false
+    title-block-banner: false
+    lang: en

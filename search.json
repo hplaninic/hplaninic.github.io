@@ -1,0 +1,114 @@
+[
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Undergraduate course.\nLecture notes will be added here."
+  },
+  {
+    "objectID": "teaching.html#probability",
+    "href": "teaching.html#probability",
+    "title": "Teaching",
+    "section": "",
+    "text": "Undergraduate course.\nLecture notes will be added here."
+  },
+  {
+    "objectID": "teaching.html#markov-chains",
+    "href": "teaching.html#markov-chains",
+    "title": "Teaching",
+    "section": "Markov Chains",
+    "text": "Markov Chains\nUndergraduate course.\nLecture notes will be added here."
+  },
+  {
+    "objectID": "teaching.html#machine-learning",
+    "href": "teaching.html#machine-learning",
+    "title": "Teaching",
+    "section": "Machine Learning",
+    "text": "Machine Learning\nGraduate course.\nCourse materials will be added here."
+  },
+  {
+    "objectID": "teaching.html#using-these-notes",
+    "href": "teaching.html#using-these-notes",
+    "title": "Teaching",
+    "section": "Using these notes",
+    "text": "Using these notes\nThese lecture notes are freely available for personal study and teaching. You may share unmodified copies with attribution to the author. Please contact me for other uses.\nThis permission applies to my lecture notes, not to linked theses or published papers."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research interests include extreme value theory, point processes, and random graphs.\nPublication records on CroRIS"
+  },
+  {
+    "objectID": "research.html#section",
+    "href": "research.html#section",
+    "title": "Research",
+    "section": "2026",
+    "text": "2026\n\nExtremal behavior of stationary marked point processes\nBojan Basrak, Ilya Molchanov, and Hrvoje Planinić.\nAdvances in Applied Probability 58(1), 1–42 (2026).\narXiv · DOI"
+  },
+  {
+    "objectID": "research.html#section-1",
+    "href": "research.html#section-1",
+    "title": "Research",
+    "section": "2023",
+    "text": "2023\n\nPalm theory for extremes of stationary regularly varying time series and random fields\nHrvoje Planinić.\nExtremes 26(1), 45–82 (2023).\narXiv · DOI"
+  },
+  {
+    "objectID": "research.html#section-2",
+    "href": "research.html#section-2",
+    "title": "Research",
+    "section": "2021",
+    "text": "2021\n\nCompound Poisson approximation for regularly varying fields with application to sequence alignment\nBojan Basrak and Hrvoje Planinić.\nBernoulli 27(2), 1371–1408 (2021).\narXiv · DOI\n\n\nStatistical inference of subcritical strongly stationary Galton–Watson processes with regularly varying immigration\nMátyás Barczy, Bojan Basrak, Péter Kevei, Gyula Pap, and Hrvoje Planinić.\nStochastic Processes and their Applications 132, 33–75 (2021).\narXiv · DOI"
+  },
+  {
+    "objectID": "research.html#section-3",
+    "href": "research.html#section-3",
+    "title": "Research",
+    "section": "2019",
+    "text": "2019\n\nA note on vague convergence of measures\nBojan Basrak and Hrvoje Planinić.\nStatistics & Probability Letters 153, 180–186 (2019).\narXiv · DOI"
+  },
+  {
+    "objectID": "research.html#section-4",
+    "href": "research.html#section-4",
+    "title": "Research",
+    "section": "2018",
+    "text": "2018\n\nAn invariance principle for sums and record times of regularly varying stationary sequences\nBojan Basrak, Hrvoje Planinić, and Philippe Soulier.\nProbability Theory and Related Fields 172(3–4), 869–914 (2018).\narXiv · DOI\n\n\nThe tail process revisited\nHrvoje Planinić and Philippe Soulier.\nExtremes 21(4), 551–579 (2018).\narXiv · DOI"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hrvoje Planinić",
+    "section": "",
+    "text": "Department of Mathematics · Faculty of Science\nUniversity of Zagreb\nI work in probability theory, with interests in extreme value theory, point processes, and random graphs.\nThis site brings together my research, teaching materials, and master’s thesis supervision.\nEmail · University profile"
+  },
+  {
+    "objectID": "index.html#research",
+    "href": "index.html#research",
+    "title": "Hrvoje Planinić",
+    "section": "Research",
+    "text": "Research\nPublications and preprints →"
+  },
+  {
+    "objectID": "index.html#teaching",
+    "href": "index.html#teaching",
+    "title": "Hrvoje Planinić",
+    "section": "Teaching",
+    "text": "Teaching\nLecture notes and materials for courses in probability, Markov chains, and machine learning.\nCourses and lecture notes →"
+  },
+  {
+    "objectID": "students.html",
+    "href": "students.html",
+    "title": "Students",
+    "section": "",
+    "text": "Student names, thesis titles, and public repository links to be added."
+  },
+  {
+    "objectID": "students.html#masters-theses",
+    "href": "students.html#masters-theses",
+    "title": "Students",
+    "section": "",
+    "text": "Student names, thesis titles, and public repository links to be added."
+  }
+]

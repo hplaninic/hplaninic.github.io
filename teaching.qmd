@@ -1,0 +1,34 @@
+---
+title: Teaching
+---
+
+## Probability
+
+Undergraduate course.
+
+Lecture notes will be added here.
+
+<!-- Upload the actual PDF to files/probability-notes.pdf, then uncomment:
+[Lecture notes — PDF](files/probability-notes.pdf)  
+Language: Croatian · Updated: YYYY-MM-DD
+-->
+
+## Markov Chains
+
+Undergraduate course.
+
+Lecture notes will be added here.
+
+<!-- [Lecture notes — PDF](files/markov-chains-notes.pdf) -->
+
+## Machine Learning
+
+Graduate course.
+
+Course materials will be added here.
+
+## Using these notes
+
+These lecture notes are freely available for personal study and teaching. You may share unmodified copies with attribution to the author. Please contact me for other uses.
+
+This permission applies to my lecture notes, not to linked theses or published papers.
