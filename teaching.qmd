@@ -66,5 +66,4 @@ This permission applies to my lecture notes, not to linked theses or published p
 
 ### 2021
 
-- **Marija Babić** - [Theory of statistical learning and application]
-(https://repozitorij.pmf.unizg.hr/object/pmf:9799/FILE0)
+- **Marija Babić** - [Theory of statistical learning and application](https://repozitorij.pmf.unizg.hr/object/pmf:9799/FILE0)
