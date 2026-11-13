@@ -9,7 +9,7 @@ University of Zagreb
 
 I work in probability theory, with interests in extreme value theory, point processes, and random graphs.
 
-This site brings together my [research](research.qmd), [teaching materials](teaching.qmd), and [master's thesis supervision](students.qmd).
+This site brings together my [research](research.qmd), [teaching materials](teaching.qmd), and [master's thesis supervision](teaching.qmd#masters-theses).
 
 [Email](mailto:hrvoje.planinic@math.hr) · [University profile](https://www.pmf.unizg.hr/math/hrvoje.planinic)
 

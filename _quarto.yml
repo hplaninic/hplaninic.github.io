@@ -2,7 +2,9 @@ project:
   type: website
   output-dir: _site
   render:
-    - '*.qmd'
+    - index.qmd
+    - research.qmd
+    - teaching.qmd
   resources:
     - files/
 website:
@@ -19,8 +21,6 @@ website:
         text: Research
       - href: teaching.qmd
         text: Teaching
-      - href: students.qmd
-        text: Students
   page-footer:
     left: "Hrvoje Planinić · University of Zagreb"
 format:
