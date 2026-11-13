@@ -3,24 +3,15 @@ title: "Hrvoje Planinić"
 ---
 
 ::: {.affiliation}
+Assistant professor
 Department of Mathematics · Faculty of Science  
 University of Zagreb
 :::
 
 I work in probability theory, with interests in extreme value theory, point processes, and random graphs.
 
-This site brings together my [research](research.qmd), [teaching materials](teaching.qmd), and [master's thesis supervision](teaching.qmd#masters-theses).
 
 [Email](mailto:hrvoje.planinic@math.hr) · [University profile](https://www.pmf.unizg.hr/math/hrvoje.planinic)
 
 <!-- Add CV and Google Scholar links when supplied. -->
 
-## Research
-
-[Publications and preprints →](research.qmd)
-
-## Teaching
-
-Lecture notes and materials for courses in probability, Markov chains, and machine learning.
-
-[Courses and lecture notes →](teaching.qmd)
