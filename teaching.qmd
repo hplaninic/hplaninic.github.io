@@ -4,21 +4,15 @@ title: Teaching
 
 ## Probability
 
-Undergraduate course.
-
 [Lecture notes — PDF](files/probability-notes.pdf)  
 In Croatian · Updated 13 November 2026
 
 ## Markov Chains
 
-Undergraduate course.
-
 [Lecture notes — PDF](files/markov-chains-notes.pdf)  
 In Croatian · Updated 13 November 2026
 
 ## Machine Learning
-
-Graduate course.
 
 Course materials will be added here.
 
@@ -33,8 +27,6 @@ This permission applies to my lecture notes, not to linked theses or published p
 ### 2026
 
 - **Lucija Kovačević** — [Neural point processes](https://repozitorij.pmf.unizg.hr/islandora/object/pmf%3A15679/datastream/PDF/view)
-
-- **Martina Lozić** — [Socioeconomic determinants of quality of life in older adults](https://repozitorij.pmf.unizg.hr/islandora/object/pmf%3A15257/datastream/PDF/view) (co-supervised with Martina Pezer)
 
 - **Dijana Zdunić** — [Hidden Markov models and applications](https://repozitorij.pmf.unizg.hr/islandora/object/pmf%3A15581/datastream/PDF/view)
 
@@ -72,3 +64,7 @@ This permission applies to my lecture notes, not to linked theses or published p
 
 - **Anđela Spajić** — [Statistical modelling of extreme values: the block maxima method](https://repozitorij.pmf.unizg.hr/islandora/object/pmf%3A11246/datastream/PDF/view)
 
+### 2021
+
+- **Marija Babić** - [Theory of statistical learning and application]
+(https://repozitorij.pmf.unizg.hr/object/pmf:9799/FILE0)
