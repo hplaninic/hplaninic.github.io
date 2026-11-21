@@ -1,30 +1,22 @@
 ---
-title: Teaching
+title: Teaching (mostly in Croatian)
 ---
 
 ## Probability
 
 [Lecture notes — PDF](files/probability-notes.pdf)  
-In Croatian · Updated 13 November 2026
 
 ## Markov Chains
 
 [Lecture notes — PDF](files/markov-chains-notes.pdf)  
-In Croatian · Updated 13 November 2026
 
 ## Machine Learning
 
 Course materials will be added here.
 
-## Using these notes
+## Master's theses (in chronological order) {#masters-theses}
 
-These lecture notes are freely available for personal study and teaching. You may share unmodified copies with attribution to the author. Please contact me for other uses.
 
-This permission applies to my lecture notes, not to linked theses or published papers.
-
-## Master's theses {#masters-theses}
-
-### 2026
 
 - **Lucija Kovačević** — [Neural point processes](https://repozitorij.pmf.unizg.hr/islandora/object/pmf%3A15679/datastream/PDF/view)
 
@@ -32,13 +24,13 @@ This permission applies to my lecture notes, not to linked theses or published p
 
 - **Laura Župčić** — [Local convergence of random graphs](https://repozitorij.pmf.unizg.hr/islandora/object/pmf%3A15465/datastream/PDF/view)
 
-### 2025
+
 
 - **Roberto Grabovac** — [Variational autoencoders with applications](https://repozitorij.pmf.unizg.hr/islandora/object/pmf%3A14182/datastream/PDF/view)
 
 - **Danijel Opačak** — [Point processes on linear networks and applications](https://repozitorij.pmf.unizg.hr/islandora/object/pmf%3A14512/datastream/PDF/view)
 
-### 2024
+
 
 - **Luis M. Pich-Aquilera Barroso** — [Hawkes processes](https://repozitorij.pmf.unizg.hr/islandora/object/pmf%3A13200/datastream/PDF/view)
 
@@ -46,7 +38,7 @@ This permission applies to my lecture notes, not to linked theses or published p
 
 - **Katja Varjačić** — [Basic theory and applications of generalized additive models](https://repozitorij.pmf.unizg.hr/islandora/object/pmf%3A13209/datastream/PDF/view)
 
-### 2023
+
 
 - **Ela Đimoti** — [Robust principal component analysis](https://repozitorij.pmf.unizg.hr/islandora/object/pmf%3A12592/datastream/PDF/view)
 
@@ -58,12 +50,12 @@ This permission applies to my lecture notes, not to linked theses or published p
 
 - **Vladimir Vondraček** — [Decision trees and applications in machine learning](https://repozitorij.pmf.unizg.hr/islandora/object/pmf%3A12567/datastream/PDF/view)
 
-### 2022
+
 
 - **Borna Radoš** — [Fluctuations of the simple symmetric random walk](https://repozitorij.pmf.unizg.hr/islandora/object/pmf%3A11244/datastream/PDF/view)
 
 - **Anđela Spajić** — [Statistical modelling of extreme values: the block maxima method](https://repozitorij.pmf.unizg.hr/islandora/object/pmf%3A11246/datastream/PDF/view)
 
-### 2021
+
 
 - **Marija Babić** - [Theory of statistical learning and application](https://repozitorij.pmf.unizg.hr/object/pmf:9799/FILE0)
