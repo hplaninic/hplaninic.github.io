@@ -1,5 +1,7 @@
 ---
-title: Teaching (mostly in Croatian)
+title: Teaching 
+
+(mostly in Croatian)
 ---
 
 ## Probability
@@ -14,7 +16,7 @@ title: Teaching (mostly in Croatian)
 
 Course materials will be added here.
 
-## Master's theses (in chronological order) {#masters-theses}
+## Master's theses  {#masters-theses}
 
 
 
