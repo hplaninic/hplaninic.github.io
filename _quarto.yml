@@ -7,6 +7,7 @@ project:
     - teaching.qmd
   resources:
     - files/
+    - googlee06daa29c6191ee8.html
 website:
   site-url: "https://hplaninic.github.io/"
   title: "Hrvoje Planinić"
