@@ -34,9 +34,7 @@ with Bojan Basrak, and Philippe Soulier
 with Philippe Soulier  
 [Extremes 21(4), 551–579 (2018)](https://doi.org/10.1007/s10687-018-0312-1)
 
-## PhD thesis
-
-[PhD thesis — University of Zagreb repository](https://repozitorij.pmf.unizg.hr/en/object/pmf:5779)
+ PhD thesis -- [Point processes in the analysis of dependent data](https://repozitorij.pmf.unizg.hr/en/object/pmf:5779) (supervised by Bojan Basrak)
 
 ## Talks and posters {#talks-and-posters}
 
