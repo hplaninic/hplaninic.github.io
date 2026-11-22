@@ -12,7 +12,7 @@ with Bojan Basrak and Ilya Molchanov
 
 6\. [Palm theory for extremes of stationary regularly varying time series and random fields](https://arxiv.org/abs/2104.03810)  
 [Extremes 26(1), 45–82 (2023)](https://doi.org/10.1007/s10687-022-00447-5)  
-(The Extremes Journal Prize for the Best Paper of a Young Researcher 2021)
+(**The Extremes Journal Prize for the Best Paper of a Young Researcher 2021**)
 
 5\. [Compound Poisson approximation for regularly varying fields with application to sequence alignment](https://arxiv.org/abs/1809.00723)  
 with Bojan Basrak  
@@ -34,7 +34,7 @@ with Bojan Basrak, and Philippe Soulier
 with Philippe Soulier  
 [Extremes 21(4), 551–579 (2018)](https://doi.org/10.1007/s10687-018-0312-1)
 
- PhD thesis -- [Point processes in the analysis of dependent data](https://repozitorij.pmf.unizg.hr/en/object/pmf:5779) (supervised by Bojan Basrak)
+ **PhD thesis** -- [Point processes in the analysis of dependent data](https://repozitorij.pmf.unizg.hr/en/object/pmf:5779) (supervised by [Bojan Basrak](https://web.math.pmf.unizg.hr/~bbasrak/))
 
 ## Talks and posters {#talks-and-posters}
 
