@@ -4,7 +4,7 @@ title: Research
 
 [Google scholar profile](https://scholar.google.com/citations?user=xcCAM-cAAAAJ&hl=hr)
 
-## 2026
+## Publications
 
 ### Extremal behavior of stationary marked point processes
 
@@ -12,16 +12,12 @@ Bojan Basrak, Ilya Molchanov, and Hrvoje Planinić.
 Advances in Applied Probability **58**(1), 1–42 (2026).  
 [arXiv](https://arxiv.org/abs/2210.01474) · [DOI](https://doi.org/10.1017/apr.2025.23)
 
-## 2023
-
 ### Palm theory for extremes of stationary regularly varying time series and random fields
 
 Hrvoje Planinić.  
 Extremes **26**(1), 45–82 (2023).  
 [arXiv](https://arxiv.org/abs/2104.03810) · [DOI](https://doi.org/10.1007/s10687-022-00447-5)  
 (**The Extremes Journal Prize for the Best Paper of a Young Researcher 2021**)
-
-## 2021
 
 ### Compound Poisson approximation for regularly varying fields with application to sequence alignment
 
@@ -35,15 +31,11 @@ Mátyás Barczy, Bojan Basrak, Péter Kevei, Gyula Pap, and Hrvoje Planinić.
 Stochastic Processes and their Applications **132**, 33–75 (2021).  
 [arXiv](https://arxiv.org/abs/1910.01420) · [DOI](https://doi.org/10.1016/j.spa.2020.10.004)
 
-## 2019
-
 ### A note on vague convergence of measures
 
 Bojan Basrak and Hrvoje Planinić.  
 Statistics & Probability Letters **153**, 180–186 (2019).  
 [arXiv](https://arxiv.org/abs/1803.07024) · [DOI](https://doi.org/10.1016/j.spl.2019.06.004)
-
-## 2018
 
 ### An invariance principle for sums and record times of regularly varying stationary sequences
 
@@ -56,6 +48,10 @@ Probability Theory and Related Fields **172**(3–4), 869–914 (2018).
 Hrvoje Planinić and Philippe Soulier.  
 Extremes **21**(4), 551–579 (2018).  
 [arXiv](https://arxiv.org/abs/1706.04767) · [DOI](https://doi.org/10.1007/s10687-018-0312-1)
+
+## PhD thesis
+
+[PhD thesis — University of Zagreb repository](https://repozitorij.pmf.unizg.hr/en/object/pmf:5779)
 
 ## Talks and posters {#talks-and-posters}
 
