@@ -1,8 +1,8 @@
 ---
 title: Teaching 
+---
 
 (mostly in Croatian)
----
 
 ## Probability
 
