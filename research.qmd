@@ -59,40 +59,20 @@ Extremes **21**(4), 551–579 (2018).
 
 ## Talks and posters {#talks-and-posters}
 
-### 2024 {#talks-2024}
-
-- Scientific Colloquium, Mathos, Osijek — May. *Seminar.*
-
-### 2023 {#talks-2023}
-
-- Groningen Probability and Discrete Mathematics Seminar — November, online. *Seminar.*
-- Gothenburg Statistics Seminar, University of Gothenburg — September. *Seminar.*
+- Scientific Colloquium, Mathos, Osijek — May 2024. *Seminar.*
+- Groningen Probability and Discrete Mathematics Seminar — November 2023, online. *Seminar.*
+- Gothenburg Statistics Seminar, University of Gothenburg — September 2023. *Seminar.*
 - 13th International Conference on Extreme Value Analysis (EVA 2023), Milan — June.
-
-### 2022 {#talks-2022}
-
-- IMS Annual Meeting in Probability and Statistics, London — June. *Invited talk.*
-- Long Memory and Extremes Seminar — March, online. *Seminar.*
-
-### 2021 {#talks-2021}
-
-- Regular Variation and Related Themes, Dubrovnik — November.
-- UNIL Seminar, University of Lausanne — September. *Seminar.*
+- IMS Annual Meeting in Probability and Statistics, London — June 2022. *Invited talk.*
+- Long Memory and Extremes Seminar — March 2022, online. *Seminar.*
+- Regular Variation and Related Themes, Dubrovnik — November 2021.
+- UNIL Seminar, University of Lausanne — September 2021. *Seminar.*
 - 12th International Conference on Extreme Value Analysis (EVA 2021), Edinburgh — June–July, online.
-
-### 2019 {#talks-2019}
-
 - 12th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2019), London — December. *Invited talk.*
 - 21st European Young Statisticians Meeting (EYSM 2019), Belgrade — July–August. *Invited talk.*
 - 11th International Conference on Extreme Value Analysis (EVA 2019), Zagreb — July. *Invited talk.*
-
-### 2018 {#talks-2018}
-
-- 12th International Vilnius Conference on Probability Theory and Mathematical Statistics, Vilnius — July.
+- 12th International Vilnius Conference on Probability Theory and Mathematical Statistics, Vilnius — July 2018.
 - 9th International Workshop on Applied Probability (IWAP 2018), Budapest — June. *Invited talk.*
-- VELo Seminar, Université Pierre et Marie Curie (UPMC), Paris — January. *Seminar.*
-
-### 2017 {#talks-2017}
-
-- Workshop on Risk Quantification and Extreme Values in Applications, EPFL, Lausanne — February. *Poster.*
-- Winter School on Recent Advances in Extremes, EPFL, Lausanne — February.
+- VELo Seminar, Université Pierre et Marie Curie (UPMC), Paris — January 2018. *Seminar.*
+- Workshop on Risk Quantification and Extreme Values in Applications, EPFL, Lausanne — February 2017. *Poster.*
+- Winter School on Recent Advances in Extremes, EPFL, Lausanne — February 2017.
