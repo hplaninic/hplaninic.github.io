@@ -11,5 +11,7 @@ Department of Mathematics · Faculty of Science · University of Zagreb <br>
 I work in probability theory, with interests in extreme value theory, point processes, and random graphs.
 
 
+![](profile_photo.jpeg){width=400 fig-alt="An outdoor photograph of two people"}
+
 <!-- Add CV and Google Scholar links when supplied. -->
 
