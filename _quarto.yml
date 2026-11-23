@@ -15,7 +15,6 @@ website:
   search: false
   navbar:
     title: false
-    left:
     background: light
     right:
       - href: index.qmd
