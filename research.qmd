@@ -2,8 +2,6 @@
 title: Research
 --- -->
 
-[Google scholar](https://scholar.google.com/citations?user=xcCAM-cAAAAJ&hl=hr)
-
 ## Publications
 
 7\. [Extremal behavior of stationary marked point processes](https://arxiv.org/abs/2210.01474)  
@@ -35,6 +33,8 @@ with Philippe Soulier
 [Extremes](https://doi.org/10.1007/s10687-018-0312-1) (2018)
 
  **PhD thesis** -- [Point processes in the analysis of dependent data](https://repozitorij.pmf.unizg.hr/en/object/pmf:5779) (supervised by [Bojan Basrak](https://web.math.pmf.unizg.hr/~bbasrak/))
+
+[Google scholar](https://scholar.google.com/citations?user=xcCAM-cAAAAJ&hl=hr)
 
 ## Talks and posters {#talks-and-posters}
 
