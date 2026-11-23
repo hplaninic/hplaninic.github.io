@@ -14,7 +14,8 @@ website:
   description: "Research and teaching in probability theory at the University of Zagreb."
   search: false
   navbar:
-   title: false
+    title: false
+    left:
     background: light
     right:
       - href: index.qmd
