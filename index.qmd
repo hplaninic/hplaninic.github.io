@@ -11,7 +11,7 @@ Department of Mathematics · Faculty of Science · University of Zagreb
 :::
 
 ::: {.column width="35%"}
-![](planinic_web.jpg){width=250}
+![](files/planinic_web.jpg){width=250}
 :::
 
 :::
