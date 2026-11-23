@@ -5,8 +5,9 @@ title: "Hrvoje Planinić"
 ::: {.columns}
 
 ::: {.column width="65%"}
-Assistant professor  
-Department of Mathematics · Faculty of Science · University of Zagreb  
+Assistant professor   
+Department of Mathematics · Faculty of Science <br>
+University of Zagreb  
 [planinic@math.hr](mailto:hrvoje.planinic@math.hr)
 
 I work in probability theory, with interests in extreme value theory, point processes, and random graphs.
