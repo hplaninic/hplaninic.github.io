@@ -1,8 +1,8 @@
----
+<!-- ---
 title: Research
----
+--- -->
 
-[Google scholar profile](https://scholar.google.com/citations?user=xcCAM-cAAAAJ&hl=hr)
+[Google scholar](https://scholar.google.com/citations?user=xcCAM-cAAAAJ&hl=hr)
 
 ## Publications
 
