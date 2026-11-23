@@ -8,31 +8,31 @@ title: Research
 
 7\. [Extremal behavior of stationary marked point processes](https://arxiv.org/abs/2210.01474)  
 with Bojan Basrak and Ilya Molchanov  
-[Advances in Applied Probability 58(1), 1–42 (2026)](https://doi.org/10.1017/apr.2025.23)
+[Advances in Applied Probability](https://doi.org/10.1017/apr.2025.23) (2026)
 
 6\. [Palm theory for extremes of stationary regularly varying time series and random fields](https://arxiv.org/abs/2104.03810)  
-[Extremes 26(1), 45–82 (2023)](https://doi.org/10.1007/s10687-022-00447-5)  
-(**The Extremes Journal Prize for the Best Paper of a Young Researcher 2021**)
+[Extremes](https://doi.org/10.1007/s10687-022-00447-5) (2023)  
+(*The Extremes Journal Prize for the Best Paper of a Young Researcher 2021*)
 
 5\. [Compound Poisson approximation for regularly varying fields with application to sequence alignment](https://arxiv.org/abs/1809.00723)  
 with Bojan Basrak  
-[Bernoulli 27(2), 1371–1408 (2021)](https://doi.org/10.3150/20-BEJ1278)
+[Bernoulli](https://doi.org/10.3150/20-BEJ1278) (2021)
 
 4\. [Statistical inference of subcritical strongly stationary Galton–Watson processes with regularly varying immigration](https://arxiv.org/abs/1910.01420)  
 with Mátyás Barczy, Bojan Basrak, Péter Kevei, and Gyula Pap  
-[Stochastic Processes and their Applications 132, 33–75 (2021)](https://doi.org/10.1016/j.spa.2020.10.004)
+[Stochastic Processes and their Application](https://doi.org/10.1016/j.spa.2020.10.004) (2021)
 
 3\. [A note on vague convergence of measures](https://arxiv.org/abs/1803.07024)  
 with Bojan Basrak  
-[Statistics & Probability Letters 153, 180–186 (2019)](https://doi.org/10.1016/j.spl.2019.06.004)
+[Statistics & Probability Letters](https://doi.org/10.1016/j.spl.2019.06.004) (2019)
 
 2\. [An invariance principle for sums and record times of regularly varying stationary sequences](https://arxiv.org/abs/1609.00687)  
 with Bojan Basrak, and Philippe Soulier  
-[Probability Theory and Related Fields 172(3–4), 869–914 (2018)](https://doi.org/10.1007/s00440-017-0822-9)
+[Probability Theory and Related Fields](https://doi.org/10.1007/s00440-017-0822-9) (2018)
 
 1\. [The tail process revisited](https://arxiv.org/abs/1706.04767)  
 with Philippe Soulier  
-[Extremes 21(4), 551–579 (2018)](https://doi.org/10.1007/s10687-018-0312-1)
+[Extremes](https://doi.org/10.1007/s10687-018-0312-1) (2018)
 
  **PhD thesis** -- [Point processes in the analysis of dependent data](https://repozitorij.pmf.unizg.hr/en/object/pmf:5779) (supervised by [Bojan Basrak](https://web.math.pmf.unizg.hr/~bbasrak/))
 
